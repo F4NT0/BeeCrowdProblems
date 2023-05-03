@@ -1,0 +1,18 @@
+@startuml
+
+skin rose
+
+title Activity Diagram Simple Sum \n
+
+start
+
+:Criar primeiro termo chamado num1;
+:Criar segundo termo chamado num2;
+:Invocar o método Calcula;
+:Passar como parâmetros o num1 e num2;
+:Ativar método calculando a soma de num1 e num2;
+:Apresentar resultado do valor da soma; 
+
+stop
+
+@enduml
