@@ -1,0 +1,11 @@
+namespace example
+
+-- Define the input variables
+variable num1: Integer = 5;
+variable num2: Integer = 10;
+
+-- Calculate the sum
+variable sum: Integer = num1 + num2;
+
+-- Output the result
+print("The sum is: " + sum);
