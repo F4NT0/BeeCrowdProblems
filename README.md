@@ -1,6 +1,8 @@
 # BeeCrowdProblems
 Exercícios e problemas com Beecrowd
 
+## Código do PlantUML
+
 ```plantuml
 @startuml
 !theme mars
@@ -19,6 +21,14 @@ footer
 end footer
 @enduml
 ```
+
+## Imagem do PlantUML
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18719295/236072410-b75bf58f-f3be-42b9-b718-e1dab8ccddc1.png">
+</p>
+
+## Gerado o mesmo diagrama pelo Mermaid
 
 ```mermaid
 ---
