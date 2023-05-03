@@ -15,4 +15,10 @@ start
 
 stop
 
+footer
+  rafael.santos00@edu.pucrs.br
+  gabriel.stundner@edu.pucrs.br
+  2023-05-03
+end footer
+
 @enduml
