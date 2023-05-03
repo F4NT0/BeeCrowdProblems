@@ -3,11 +3,15 @@ Exercícios e problemas com Beecrowd
 
 ```plantuml
 @startuml
-Class01 <|-- Class02
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 -- Class10
+!theme mars
+Title Bee1003 - Simple Sum
+
+class Soma{
+  + int Num1
+  + int Num2
+  + Calcula () : int
+  
+}
 @enduml
 ```
 
