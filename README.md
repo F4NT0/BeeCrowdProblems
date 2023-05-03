@@ -6,12 +6,17 @@ Exercícios e problemas com Beecrowd
 !theme mars
 Title Bee1003 - Simple Sum
 
-class Soma{
-  + int Num1
-  + int Num2
+class Soma {
+  + int num1
+  + int num2
   + Calcula () : int
-  
 }
+
+footer
+  rafael.santos00@edu.pucrs.br
+  gabriel.stundner@edu.pucrs.br
+  2023-05-03
+end footer
 @enduml
 ```
 
