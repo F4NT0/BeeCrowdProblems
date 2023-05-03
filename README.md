@@ -47,3 +47,7 @@ class Soma{
     + Calcula(): int
 }
 ```
+
+## Diagrama de Atividades
+
+![image](https://user-images.githubusercontent.com/51725245/236074764-c6140bb0-69c2-4520-8fc7-96e34814648f.png)
