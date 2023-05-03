@@ -1,0 +1,11 @@
+@startuml
+!theme mars
+Title Bee1003 - Simple Sum
+
+class Soma{
+  + int Num1
+  + int Num2
+  + Calcula () : int
+  
+}
+@enduml
