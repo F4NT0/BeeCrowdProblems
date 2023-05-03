@@ -30,10 +30,16 @@ end footer
 
 ## Gerado o mesmo diagrama pelo Mermaid
 
+```md
+classDiagram
+class Soma{
+    + int num1
+    + int num2
+    + Calcula(): int
+}
+```
+
 ```mermaid
----
-Title: Bee1003
----
 classDiagram
 class Soma{
     + int num1
